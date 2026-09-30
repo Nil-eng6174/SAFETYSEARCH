@@ -1,0 +1,6 @@
+{
+  "name": "SafeStay AI - Worker Safety Monitor",
+  "description": "AI-powered real-time worker safety and PPE compliance monitoring system for hospitality operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
